@@ -28,7 +28,7 @@ const IntroductionCard = () => {
     </div>
     <div className="p-8">
       <p className="block mt-1 text-lg leading-tight font-medium text-black">Hi! My name is Satya Rai</p>
-      <p className="mt-2 text-slate-500">A passionate software developer from Darjeeling, India. With a strong background in full-stack web development and desktop applications, I thrive on creating impactful solutions that drive efficiency and enhance user experiences. Let's connect and innovate together!</p>
+      <p className="mt-2 text-slate-500">A passionate software developer from Darjeeling, India. With a strong background in full-stack web development and desktop applications, I thrive on creating impactful solutions that drive efficiency and enhance user experiences. Lets connect and innovate together!</p>
     </div>
   </div>
 </div>
